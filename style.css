@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+    font-family: 'Tapestry', cursive;
+    background-color: #f5f5f5;
+}
+.navbar{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Tapestry', cursive;
+    letter-spacing: 5px;
+    padding: 150px 0;
+    padding-top: 10px;
+    
+}
+
+
+
+
+#nav1:hover {
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    padding: 6px 0; 
+    color: rgb(224, 21, 21);
+  }
+
+
+.center {
+    text-align: center;
+  }
+
+#nav1
+{  
+    
+    opacity: 0.8; 
+    filter:(opacity=50);       
+}  
+
+.heading-content{
+    position: absolute;
+    top: 15%;
+    width: 100%;
+    max-width: 100%;
+    color: rgb(253, 253, 252);
+    opacity: 1;
+    font-family: 'Square Peg', cursive;
+    
+}
+
+.head-content h2{
+
+    font-size: 10em;
+    font-weight: bolder;
+
+    color: rgb(236, 236, 192);
+    opacity: 1;
+    font-family: 'Tapestry', cursive;
+
+    
+}
+
+.yolo{
+    left: 0
+}
+
+#olo{
+   font-size:30px;
+   font-family: 'Tapestry', cursive;
+}
+
+#olp{
+    font-size:30px;
+    font-family: 'Tapestry', cursive;
+
+ }
+
+ section
+ {
+     background-color:yellowgreen;
+     width: 80%;
+     margin-right:auto;
+     margin-left:auto;
+ } 
+
+#spinner{
+    font-family: 'Tapestry', cursive;
+} 
+
+#nax{
+    font-family: 'Ms Madi', cursive;
+    font-size: 50px;
+}
+
+#my_pic{
+    max-width: 250px;
+    max-height: 150px;
+}
+#impala{
+    max-width: 100px;
+    max-height: 150px;
+}
+
+#smarty{
+    max-width: 100px;
+    max-height: 150px;
+}
+
+#nat{
+    font-family: 'Ms Madi', cursive;
+    font-size: 25px;
+}
